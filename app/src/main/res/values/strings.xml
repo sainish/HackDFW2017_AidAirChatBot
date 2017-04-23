@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AirAid</string>
+    <string name="bot_name">AmericanAirlines</string>
+    <string name="bot_alias">$LATEST</string>
+    <string name="identity_id_test">Add Identity Pool ID</string>
+    <string name="aws_region">us-east-1</string>
+    <string name="screen_options_main_message">Welcome to AIrAId</string>
+</resources>
